@@ -180,8 +180,20 @@ Expand/collapse tree controls
 Product mapping inside categories
 Dark mode UI
 
-Author
+Author:
+
 Ashfaq Hyder C S
 
 
-<div align="center"> <sub>Built with Flask, trees, and a pleasantly orderly amount of recursion.</sub> </div> ```
+<div align="center"> <sub>Built with Flask, trees, and a pleasantly orderly amount of recursion.</sub> </div> 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.x-0f766e?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_App-134e4a?style=for-the-badge&logo=flask&logoColor=white)
+![JSON](https://img.shields.io/badge/Storage-JSON-14b8a6?style=for-the-badge&logo=json&logoColor=white)
+![Tree](https://img.shields.io/badge/Data%20Structure-Tree-0d9488?style=for-the-badge)
+![Traversal](https://img.shields.io/badge/Traversal-Preorder%20%7C%20Inorder%20%7C%20Postorder-115e59?style=for-the-badge)
+![Status](https://img.shields.io/badge/Project-Completed-0f766e?style=for-the-badge)
+
+</div>
+
