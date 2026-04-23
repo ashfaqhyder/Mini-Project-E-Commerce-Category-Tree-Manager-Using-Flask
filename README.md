@@ -127,6 +127,7 @@ ecommerce-category-tree/
 ```
 API Endpoints
 Method	Endpoint	Description
+```text
 GET	/	Load the main UI
 GET	/api/categories	Get the full category tree
 GET	/api/traversal/preorder	Get preorder traversal
@@ -136,12 +137,13 @@ GET	/api/search?q=CategoryName	Search for a category
 POST	/api/categories	Add a category
 PUT	/api/categories	Rename a category
 DELETE	/api/categories	Delete a category
+```
 Installation and Run
-1. Clone the repository
+1. Clone the repository 
 git clone https://github.com/your-username/ecommerce-category-tree.git
 cd ecommerce-category-tree
 2. Create a virtual environment
-python -m venv venv
+   python -m venv venv
 3. Activate the virtual environment
 Windows
 
@@ -155,8 +157,13 @@ pip install -r requirements.txt
 python app.py
 6. Open in browser
 http://127.0.0.1:5000
+
+
+
 Screenshots:
 <img width="1917" height="938" alt="image" src="https://github.com/user-attachments/assets/43f5c9da-598a-4b0f-8370-b80fb1152135" />
+
+
 Explanation
 This project uses a tree data structure to represent the hierarchical organization of e-commerce categories.
 Each node represents a category, and child nodes represent subcategories.
