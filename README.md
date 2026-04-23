@@ -1,26 +1,42 @@
 # E-Commerce Category Tree Manager
 
-This Flask mini app demonstrates how an e-commerce platform can organize categories using a tree data structure. Each category is a node, and subcategories are stored as child nodes.
+<div align="center">
 
-## Features
+![Python](https://img.shields.io/badge/Python-3.x-0f766e?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-Web_App-134e4a?style=for-the-badge&logo=flask&logoColor=white)
+![JSON](https://img.shields.io/badge/Storage-JSON-14b8a6?style=for-the-badge&logo=json&logoColor=white)
+![Status](https://img.shields.io/badge/Project-Working-0d9488?style=for-the-badge)
 
-- Visual category hierarchy
-- Add, rename, and delete categories
-- Search categories and show their path
-- Preorder, inorder, and postorder traversals
-- JSON-based storage
+<h3>A Flask mini app for managing hierarchical e-commerce categories using a tree data structure.</h3>
 
-## Why Preorder Is Best for Display
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&duration=2600&pause=700&color=0F766E&center=true&vCenter=true&width=900&lines=Tree-Based+Category+Management+System;Preorder+%7C+Inorder+%7C+Postorder+Traversal;Search%2C+Add%2C+Rename%2C+Delete+Categories;Flask+Frontend+%2B+Backend+API+%2B+JSON+Storage" alt="Typing animation" />
+</p>
 
-Preorder traversal visits the current category before its subcategories:
+</div>
 
-`Parent -> Child -> Subchild`
+---
 
-That mirrors how online shopping sites display nested menus. Inorder is mainly suited to binary trees, while postorder is more useful when child nodes must be processed before the parent.
+## Overview
 
-## Run the Project
+This project models an e-commerce platform's category structure as a **tree**.  
+Each category is a node, and each subcategory is stored as a child node.
 
-1. Create a virtual environment.
-2. Install dependencies with `pip install -r requirements.txt`.
-3. Start the app with `python app.py`.
-4. Open `http://127.0.0.1:5000`.
+Example:
+
+```text
+All Products
+├── Electronics
+│   ├── Laptops
+│   │   ├── Gaming Laptops
+│   │   └── Business Laptops
+│   └── Mobiles
+│       ├── Android Phones
+│       └── iPhones
+└── Fashion
+    ├── Men
+    │   ├── Shirts
+    │   └── Shoes
+    └── Women
+        ├── Dresses
+        └── Handbags
