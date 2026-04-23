@@ -1,0 +1,71 @@
+{
+  "name": "All Products",
+  "children": [
+    {
+      "name": "Electronics",
+      "children": [
+        {
+          "name": "Laptops",
+          "children": [
+            {
+              "name": "Gaming Laptops",
+              "children": []
+            },
+            {
+              "name": "Business Laptops",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Mobiles",
+          "children": [
+            {
+              "name": "Android Phones",
+              "children": []
+            },
+            {
+              "name": "iPhones",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fashion",
+      "children": [
+        {
+          "name": "Men",
+          "children": [
+            {
+              "name": "Shirts",
+              "children": []
+            },
+            {
+              "name": "Shoes",
+              "children": []
+            }
+          ]
+        },
+        {
+          "name": "Women",
+          "children": [
+            {
+              "name": "Dresses",
+              "children": []
+            },
+            {
+              "name": "Handbags",
+              "children": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Accessories",
+      "children": []
+    }
+  ]
+}
