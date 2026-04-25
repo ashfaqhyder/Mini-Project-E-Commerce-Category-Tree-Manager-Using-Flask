@@ -184,7 +184,7 @@ http://127.0.0.1:5000
 - Support drag-and-drop category reordering
 - Add category descriptions and product counts
 
-## Author Notes
+## Author
 
 Ashfaq Hyder C S
 
