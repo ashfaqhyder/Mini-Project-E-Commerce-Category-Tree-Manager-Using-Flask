@@ -188,5 +188,5 @@ http://127.0.0.1:5000
 
 Ashfaq Hyder C S
 
-This Mini project is designed for local presentation and demonstration.
+Note : This Mini project is designed for local presentation and demonstration.
 It focuses on tree-based category management, traversal visualization, and duplicate-node handling in a practical e-commerce scenario.
