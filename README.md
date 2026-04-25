@@ -1,4 +1,4 @@
-# E-Commerce Category Tree Manager
+# E-Commerce Category Tree Manager(Mini Project)
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-3.1.0-0F766E?style=for-the-badge&logo=flask&logoColor=white" alt="Flask badge">
@@ -28,26 +28,8 @@
 
 ## Screenshots
 
-Add your screenshots below after running the project locally.
+<img width="1906" height="942" alt="image" src="https://github.com/user-attachments/assets/4a1bf55c-89e8-431b-b515-fc61c4b4da92" />
 
-### Home Screen
-
-![Home Screen](./screenshots/home.png)
-
-### Category Search
-
-![Category Search](./screenshots/search.png)
-
-### Traversal Output
-
-![Traversal Output](./screenshots/traversal.png)
-
-### Demo GIF
-
-![Demo GIF](./screenshots/demo.gif)
-
-Note:
-If you do not have screenshots yet, keep this section as-is and add the files later inside a `screenshots/` folder.
 
 ## Features
 
@@ -204,5 +186,7 @@ http://127.0.0.1:5000
 
 ## Author Notes
 
-This project is designed for local presentation and demonstration.
+Ashfaq Hyder C S
+
+This Mini project is designed for local presentation and demonstration.
 It focuses on tree-based category management, traversal visualization, and duplicate-node handling in a practical e-commerce scenario.
