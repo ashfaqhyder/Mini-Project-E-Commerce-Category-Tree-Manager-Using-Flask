@@ -190,3 +190,22 @@ Ashfaq Hyder C S
 
 Note : This Mini project is designed for local presentation and demonstration.
 It focuses on tree-based category management, traversal visualization, and duplicate-node handling in a practical e-commerce scenario.
+
+This project brings together data structures and user interface design in a practical e-commerce use case.
+It demonstrates how tree-based modeling can make category management more structured, visual, and easy to understand.
+
+If you are exploring tree traversal, Flask integration, or interactive category management systems, this project provides a clear and presentation-friendly example to build from.
+
+<p align="center">
+  <strong>Built for learning, demonstration, and local presentation.</strong>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=700&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=700&lines=Thank+you+for+exploring+this+project;Tree+structures+make+hierarchies+simple+to+manage;Built+for+clear+local+presentation" alt="Outro typing animation">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Category%20Tree%20Manager-0F766E?style=for-the-badge" alt="Project badge">
+  <img src="https://img.shields.io/badge/Built%20With-Flask%20%2B%20JavaScript-0F766E?style=for-the-badge" alt="Stack badge">
+  <img src="https://img.shields.io/badge/Use%20Case-Local%20Presentation-0F766E?style=for-the-badge" alt="Use case badge">
+</p>
